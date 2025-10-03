@@ -448,13 +448,14 @@ footer{
 
 @media(max-width:490px){
     .rn{
-        margin-right: -10px;
-        margin-left: 10px;
+        margin-right: 0px;
+        margin-left: 0px;
     }
     .ln{
-        margin-right: 10px;
-        margin-left: -10px;
+        margin-right: 0px;
+        margin-left: 0px;
     }
 
 }
+
 
