@@ -293,12 +293,12 @@ footer{
 
 .rn{
     background-color: rgba(127, 127, 235, 0.438);
-    padding: 50px 40px;
+    padding: 40px 30px;
     margin-top: 10px;
     border-radius: 15px 15px 15px 0;
     color: white;
-    margin-right: 70px;
-    margin-left: -70px;
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
 .rn p{
@@ -312,7 +312,7 @@ footer{
 
 .ln{
     background-color: #ffffff;
-    padding: 50px 40px;
+    padding: 40px 30px;
     margin-top: 10px;
     border-radius: 15px 15px 0 15px;
     color: white;
@@ -457,5 +457,6 @@ footer{
     }
 
 }
+
 
 
