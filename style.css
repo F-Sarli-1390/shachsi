@@ -445,12 +445,12 @@ footer{
 
 @media(max-width:490px){
     .rn{
-        margin-right: -20px;
-        margin-left: 20px;
+        margin-right: 0px;
+        margin-left: 0px;
     }
     .ln{
-        margin-right: 20px;
-        margin-left: -20px;
+        margin-right: 0px;
+        margin-left: 0px;
     }
     .zaban-web{
         display:block;
